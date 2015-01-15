@@ -7,7 +7,7 @@ public abstract class Conta {
 		return titular;
 	}
 
-	public void setTitular(String titular) {
+        public  void setTitular(String titular) {
 		this.titular = titular;
 	}
 
